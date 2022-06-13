@@ -1,7 +1,8 @@
 First line added
 Second line
- third line
+third line
 Fourth line
 fifth line
 seven lene
+eight from develop
 feature-2 change
